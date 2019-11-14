@@ -5,6 +5,7 @@
   "scripts": {
     "go": "npm run start",
     "ng": "ng",
+    "build": "ng build --prod",
     "start": "ng serve",
     "test": "ng test",
     "lint": "ng lint",
